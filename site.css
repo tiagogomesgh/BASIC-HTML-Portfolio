@@ -1,0 +1,5 @@
+html {
+    background-image: url("wallpaper.jpg"),
+    linear-gradient(45deg, #0f142c, #090a0f);
+    height: 100%;
+  }
